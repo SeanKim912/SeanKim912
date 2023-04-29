@@ -7,7 +7,7 @@
 ## Socials
 
 <a href="https://www.linkedin.com/in/sean-kim-377b38244/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
-<a href="https://img.shields.io/badge/AngelList-000000.svg?style=for-the-badge&logo=AngelList&logoColor=white">![Wellfound](https://img.shields.io/badge/AngelList-000000.svg?style=for-the-badge&logo=AngelList&logoColor=white)</a>
+<a href="https://wellfound.com/u/sean-kim-74">![Wellfound](https://img.shields.io/badge/AngelList-000000.svg?style=for-the-badge&logo=AngelList&logoColor=white)</a>
 
 ## Technologies
 
