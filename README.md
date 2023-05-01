@@ -1,4 +1,4 @@
-# Hi there, I'm Sean Kim.
+# 👋 Hi there, I'm Sean Kim.
 
 ## About Me
 
@@ -8,6 +8,7 @@
 
 <a href="https://www.linkedin.com/in/sean-kim-377b38244/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://wellfound.com/u/sean-kim-74">![Wellfound](https://img.shields.io/badge/AngelList-000000.svg?style=for-the-badge&logo=AngelList&logoColor=white)</a>
+<br>
 <a href="https://seankim912.github.io/">![Portfolio](https://img.shields.io/badge/%20-My%20Website-orange)</a>
 
 ## Technologies
@@ -29,3 +30,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+
+## Github Stats
+
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanKim912&show_icons=true&theme=panda)](https://github.com/SeanKim912/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanKim912&show_icons=true&theme=panda)](https://github.com/SeanKim912/github-readme-stats)
+
