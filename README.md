@@ -1,17 +1,17 @@
-# 👋 Hi there, I'm Sean Kim.
+<h1> 👋 Hi there, I'm Sean Kim. </h1>
 
-## About Me
+<h2>About Me</h2>
 
-### I'm an App Academy graduate with experience in building full-stack web applications! My other professional interest besides coding is healthcare. In my spare time, I enjoy film, literature, comics, games, and mma.
+<h3>I'm an App Academy graduate with experience in building full-stack web applications! My other professional interest besides coding is healthcare. In my spare time, I enjoy film, literature, comics, games, and mma. </h3>
 
-## Socials
+<h2>Socials</h2>
 
 <a href="https://www.linkedin.com/in/sean-kim-377b38244/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://wellfound.com/u/sean-kim-74">![Wellfound](https://img.shields.io/badge/AngelList-000000.svg?style=for-the-badge&logo=AngelList&logoColor=white)</a>
 <br>
 <a href="https://seankim912.github.io/">![Portfolio](https://img.shields.io/badge/%20-My%20Website-orange)</a>
 
-## Technologies
+<h2>Technologies</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,7 +31,7 @@
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
-## Github Stats
+<h2>Github Stats</h2>
 
 [![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanKim912&show_icons=true&theme=panda)](https://github.com/SeanKim912/github-readme-stats)
 <br>
