@@ -33,7 +33,5 @@
 
 <h2>Github Stats</h2>
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanKim912&show_icons=true&theme=panda)](https://github.com/SeanKim912/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanKim912&show_icons=true&theme=panda)](https://github.com/SeanKim912/github-readme-stats)
 
